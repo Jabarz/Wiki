@@ -2,6 +2,8 @@
 
 ## O taskach
 
+Taski-kaski, gdzie moje Triggerki.
+
 Framework zadań - szkielet, w oparciu o który możecie tworzyć swoje super misje, które na pewno sprostają oczekiwaniom. Automatyczne tworzenie tasków (zadań) na bazie mission config. Wszystkie skrypty, warunki, i eventy uruchamiane są tylko po stronie serwera.
 
 ## Jak korzystać

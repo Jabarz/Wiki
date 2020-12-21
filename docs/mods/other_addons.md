@@ -5,7 +5,7 @@ Addony, które zostały przez nas stworzone, ale są na tyle małe, że nie potr
 Mod dodaje nowe frakcje do edytora i Zeusa, które wykorzystują dostępny sprzęt z modów zależnych. Aktualnie rozwój został porzucony, ze względu na przejście na osobne paczki modów na każdą misję. Możliwy powrót do rozwoju po ustaleniu nowych modów wymaganych jako CUP i RHS. [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1677918299)
 
 Mod zawierał:
-- Chłopów (nie opublikowane)
+- Chłopów (nie opublikowane) - Dej
 - Francję
 - Litwę
 
